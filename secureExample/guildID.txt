@@ -1,0 +1,6 @@
+enable developer settings on your discord account
+right-click on your server name -> Copy Server ID
+the Server ID is your guild ID
+
+
+<put your guild id here>
